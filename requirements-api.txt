@@ -1,0 +1,14 @@
+# List required packages in this file, one per line.
+numpy
+matplotlib
+pandas
+xarray
+#netCDF4
+h5netcdf
+toolz
+scipy
+scikit-image
+psutil
+tqdm
+colorama
+pytz

@@ -1,0 +1,28 @@
+# List required packages in this file, one per line.
+numpy
+matplotlib
+hvplot
+panel
+pyviz_comms
+pyct
+holoviews
+param
+bokeh
+colorama
+colorcet
+#datashader
+#bottleneck
+pandas
+xarray>0.21
+netCDF4
+h5netcdf
+toolz
+scipy
+scikit-image
+psutil
+tqdm
+# These are additional jupyter and other extensions
+setuptools
+ipython
+jupyter_bokeh
+jupyter_client

@@ -1,0 +1,29 @@
+# These are required for developing the package (running the tests, building
+# the documentation) but not necessarily required for _using_ it.
+codecov
+coverage
+flake8
+pytest
+
+# These are dependencies of various sphinx extensions for documentation.
+ipython
+notebook
+numpydoc
+nbdime
+jupyter_bokeh
+jupyter_client
+jupyter_sphinx
+nbsphinx
+jupyter_sphinx
+sphinx
+sphinx_rtd_theme
+nbsphinx
+pandoc
+nbdime
+cookiecutter
+numpydoc
+sphinx-copybutton
+codecov
+coverage
+flake8
+pytest
